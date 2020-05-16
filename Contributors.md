@@ -1041,6 +1041,7 @@ Hannah Cusworth (https://github.com/Bewick225)
 - [Elle Mouton](https://github.com/ellemouton)
 - [Babu Gopalakrishnan](https://github.com/brgopalakrishnan)
 - [Alejandro Dominguez](https://github.com/AdominguezCS)
+- Shouryan Nikam
 - [Smaragda Petsani](https://github.com/smapets)
 - [Marcos Hernandez](https://github.com/MarcosHernandezArg)
 - [Yusoof Mohammad](https://github.com/fuzuyx)
